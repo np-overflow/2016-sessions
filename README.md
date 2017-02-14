@@ -12,7 +12,7 @@ This repository will serve as a quick way for you to view each sessions' notes, 
   - [Collaboration with GitHub](https://github.com/np-overflow/2016-sessions/blob/master/01%20--%20Introduction%20to%20Git%20%26%20the%20Command%20Line/01.2.md)
 
 - **Introduction to Web Development**
-  - [Basic Web Development]()
+  - [Basic Web Development](https://github.com/np-overflow/2016-sessions/blob/master/02%20--%20Introduction%20to%20Web%20Development/02.1.md)
 
 ## Feedback
 If you have any suggestions for tracks, or on how we can improve the program in general, our emails are always open at [ict.overflow@gmail.com](mailto://ict.overflow@gmail.com).
